@@ -1,3 +1,3 @@
 # Tutorial-Linux
 
-<img src="part1.jpeg">
+<img src="part1.jpg">
