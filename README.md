@@ -2,7 +2,9 @@
 
 <br><br>
 <img src="part1.jpg">
+<br>
 <img src="part2.jpg">
+<br>
 <img src="part3.jpg">
 <img src="part4.jpg">
 <img src="part5.jpg">
