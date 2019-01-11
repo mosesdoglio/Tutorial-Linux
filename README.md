@@ -1,4 +1,5 @@
-# Tutorial-Linux
+# Tutorial Install Linux Mint 
+By: MOYSÉS DOGLIO.
 
 <br><br>
 <img src="part1.jpg">
