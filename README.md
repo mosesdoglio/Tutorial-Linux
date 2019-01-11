@@ -1,9 +1,8 @@
 # Tutorial-Linux
 
 <br><br>
-<img src="part1.jpg"><br>
-<img src="part2.jpg"><br/>
-<br>
+<img src="part1.jpg">
+<img src="part2.jpg">
 <img src="part3.jpg">
 <img src="part4.jpg">
 <img src="part5.jpg">
