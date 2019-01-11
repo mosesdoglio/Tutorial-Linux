@@ -2,6 +2,7 @@
 
 <br><br>
 <img src="part1.jpg">
+<p>
 <img src="part2.jpg">
 <img src="part3.jpg">
 <img src="part4.jpg">
