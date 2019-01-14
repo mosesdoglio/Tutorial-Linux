@@ -22,7 +22,7 @@ By: MOYSÉS DOGLIO.
 <img src="part18.jpg"><p>
 
 
- Software Livre - Banco de Dados 
+ Software Livre - Banco de Dados <p>
 
 O Oracle é o principal banco de dados atualmente, sendo responsável pelo armazenamento de boa parte das informações das principais organizações ao redor do mundo. Sua participação no mercado de banco de dados é bastante acentuada, principalmente em grande empresas e em conjunto com sistemas de médio e grande porte. O Oracle é muito robusto e exige bastante hardware para um boa performance. Outro fator importante é o gerenciamento, onde são exigidos profissionais bastante capacitados para este fim.
 
