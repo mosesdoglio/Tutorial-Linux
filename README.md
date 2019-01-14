@@ -26,7 +26,7 @@ By: MOYSÉS DOGLIO.
 
 O Oracle é o principal banco de dados atualmente, sendo responsável pelo armazenamento de boa parte das informações das principais organizações ao redor do mundo. Sua participação no mercado de banco de dados é bastante acentuada, principalmente em grande empresas e em conjunto com sistemas de médio e grande porte. O Oracle é muito robusto e exige bastante hardware para um boa performance. Outro fator importante é o gerenciamento, onde são exigidos profissionais bastante capacitados para este fim.<p>
 
-<img src="part18.jpg"><p>
+<img src="oracle-logo.jpg"><p>
 
 Um ponto muito alto do banco de dados Oracle é a segurança, principalmente quando bem administrado. Segurança dos dados é um dos principais pontos a analisar no aspecto banco de dados e neste caso o Oracle tem a simpatia de muitas empresas e DBA’s.
 
