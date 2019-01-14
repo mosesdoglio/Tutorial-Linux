@@ -20,7 +20,7 @@ By: MOYSÉS DOGLIO.
 <img src="part16.jpg"><p>
 <img src="part17.jpg"><p>
 <img src="part18.jpg"><p>
-
+<p>
 
  <b>Software Livre - Banco de Dados</b> <p>
 
