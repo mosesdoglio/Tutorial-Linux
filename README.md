@@ -37,6 +37,13 @@ A companhia foi fundada em 1977 por Larry Ellison, Bob Miner e Ed Oates com o no
  <p>
   
   <b><b>Soluções livres - MYSQL</b></b>
+  
+ <b>Alto Desempenho, Confiável e Fácil de Usar<b>
+O MySQL é o banco de dados de código aberto mais conhecido no mundo. Com comprovado desempenho, confiabilidade e facilidade de uso, o MySQL tornou-se a principal opção de banco de dados para aplicativos baseados na Web, usado por propriedades da Web de alto perfil, incluindo Facebook, Twitter, YouTube e todos os cinco sites principais.* Além disso, é uma opção extremamente popular como banco de dados integrado, distribuído por milhares de ISVs e OEMs.
+ 
+ <img src="mysql-logo.png">
+ 
+O MySQL é talvez o banco que mais evoluiu nos últimos tempos, passando de um banco frágil e pouco seguro a um banco no mínimo respeitável. O banco de dados MySQL conta com uma importante vantagem competitiva que o fato de ser um software livre. Dentre os bancos de dados open source como o postgree, firebird e outros o Mysql tem se destacado, principalmente para uso na web.
 
 
 
